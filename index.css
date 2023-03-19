@@ -15,7 +15,7 @@ section {
 
 .form-box {
     position: relative;
-    width: 405px;
+    width: 400px;
     height: 450px;
     background: transparent;
     border: solid 2px rgba(255, 255, 255, 0.5);
@@ -42,7 +42,7 @@ h2 {
 .inputbox label {
     position: absolute;
     top: 50%;
-    left: 5px;
+    left: 30px;
     transform: translate(-50%);
     color: #fff;
     font-size: 1em;
